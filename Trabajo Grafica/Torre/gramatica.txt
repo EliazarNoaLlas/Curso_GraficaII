@@ -1,0 +1,22 @@
+lote --> cubo(1) { ~10 : altura | ~20 : ancho(x) | ~20.0 : ancho(z) } centro(xy) { ~0 : x | ~0 : z } repetir(2)
+lote --> cubo(1) { ~15 : altura | ~12 : ancho(x) | ~16 : ancho(z)} centro(xy) { ~0 : x | ~2 : z }
+lote --> triangulo(4) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~15 : y | ~10 : z }
+lote --> invertir(4) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~20 : y | ~10 : z }
+lote --> triangulo(3) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~15 : y | ~10 : z }
+lote --> invertir(3) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~20 : y | ~10 : z }
+lote --> triangulo(4) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~25 : y | ~10 : z }
+lote --> invertir(4) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~30 : y | ~10 : z }
+lote --> triangulo(3) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~25 : y | ~10 : z }
+lote --> invertir(3) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~30 : y | ~10 : z }
+lote --> triangulo(4) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~35 : y | ~10 : z }
+lote --> invertir(4) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~40 : y | ~10 : z }
+lote --> triangulo(3) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~35 : y | ~10 : z }
+lote --> invertir(3) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~40 : y | ~10 : z }
+lote --> triangulo(4) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~45 : y | ~10 : z }
+lote --> invertir(4) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~50 : y | ~10 : z }
+lote --> triangulo(3) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~45 : y | ~10 : z }
+lote --> invertir(3) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~50 : y | ~10 : z }
+lote --> triangulo(4) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~55 : y | ~10 : z }
+lote --> invertir(4) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~60 : y | ~10 : z }
+lote --> triangulo(3) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~55 : y | ~10 : z }
+lote --> invertir(3) { ~5 : altura | ~4 : ancho } posicion(xz) { ~6 : x | ~60 : y | ~10 : z }
